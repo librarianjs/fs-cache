@@ -1,0 +1,12 @@
+{
+  "name": "librarian-fs-cache",
+  "version": "1.0.0",
+  "description": "Filesystem file caching for librarian",
+  "main": "lib/index.js",
+  "keywords": "librarian cache",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
+  "license": "ISC"
+}
